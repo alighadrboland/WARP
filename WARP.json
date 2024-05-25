@@ -4,14 +4,15 @@
        "listen": "127.0.0.1", 
        "listen_port" :2000, 
        "udp_timeout":300, 
-       "type": "socks"}
+       "type": "socks"
+     }
    ], 
    "outbounds": [
      {
        "type": "wireguard" ,
        "server": "engage.cloudflareclient.com", 
        "server_port":2408, 
-       "local_address": ["172.16.0.2/32", "2606:4700:110:80da:42cb: f6 98:a91e: b19d/128"], 
+       "local_address": ["172.16.0.2/32", "2606:4700:110:80da:42cb:f698:a91e:b19d/128"], 
        "private_key":"oAGBJD02WBb+g5 13otzOrDDjNkIig4ktyR/beVW47EU=", 
        "peer_public_key ":"bmXOC+F1FxEMF9dy¿K2H5/1SUtzH0JuV51h2wPfgy0=",
        "reserved": [174,18,245],
