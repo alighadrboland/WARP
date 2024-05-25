@@ -14,7 +14,7 @@
        "server_port":2408, 
        "local_address": ["172.16.0.2/32","2606:4700:110:80da:42cb:f698:a91e:b19d/128"], 
        "private_key":"oAGBJD02WBb+g5l3otzOrDDjNkIig4ktyR/beVW47EU=", 
-       "peer_public_key ":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuV51h2wPfgy0=",
+       "public_key":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuV51h2wPfgy0=",
        "reserved": [174,18,245],
        "mtu": 1280
      }
