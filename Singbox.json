@@ -85,8 +85,8 @@
         },
         {
             "type": "wireguard",
-            "server": "162.159.192.227",
-            "server_port": 939,
+            "server": "162.159.192.206",
+            "server_port": 1387,
             "local_address": [
                 "172.16.0.2/32",
                 "2606:4700:110:83d9:6837:d7de:a0e9:30eb/128"
@@ -105,8 +105,8 @@
         },
         {
             "type": "wireguard",
-            "server": "188.114.97.244",
-            "server_port": 2506,
+            "server": "162.159.192.252",
+            "server_port": 946,
             "local_address": [
                 "172.16.0.2/32",
                 "2606:4700:110:8665:7c95:64ac:b3b5:1be3/128"
