@@ -23,14 +23,14 @@
                 "security": "tls",
                 "tlsSettings": {
                     "allowInsecure": false,
-                    "serverName": "YOUR_DOMAIN",
+                    "serverName": "raha.ghadrboland.ir",
                     "fingerprint": "firefox",
                     "show": false
                 },
                 "wsSettings": {
                     "path": "/@ln2ray?ed=2560",
                     "headers": {
-                        "Host": "YOUR_DOMAIN",
+                        "Host": "raha.ghadrboland.ir",
                         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0"
                     }
                 },
